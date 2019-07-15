@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EmployeeAppForEmployers</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyAjtwwNpKcTuokaApuks91ggrKaqsk1Bls</string>
+
+</resources>
